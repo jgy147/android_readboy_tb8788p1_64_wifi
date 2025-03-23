@@ -45,3 +45,4 @@ auto                      vfat     /devices/platform/11200000.usb3_xhci*        
 /dtbo                     emmc     /dev/block/platform/bootdevice/by-name/dtbo              flags=display=dtbo
 /otp                      emmc     /dev/block/platform/bootdevice/by-name/otp               flags=display=otp
 /vbmeta                   emmc     /dev/block/platform/bootdevice/by-name/vbmeta            flags=display=vbmeta
+/super                    emmc     /dev/block/platform/bootdevice/by-name/super             flags=display=super
